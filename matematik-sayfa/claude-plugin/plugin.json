@@ -1,0 +1,14 @@
+{
+  "name": "matematik-sayfa",
+  "version": "0.2.0",
+  "description": "Ders notu, ekran görüntüsü veya matematik sorularını; formülleri düzgün render edilmiş, koyu temalı bir HTML sayfası olarak Türkçe açıklar.",
+  "author": {
+    "name": "Yavuz Selim Özbek"
+  },
+  "keywords": [
+    "matematik",
+    "katex",
+    "ders",
+    "türkçe"
+  ]
+}
