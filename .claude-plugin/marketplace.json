@@ -1,0 +1,11 @@
+{
+  "name": "yavux",
+  "owner": { "name": "Yavuz Selim Özbek" },
+  "plugins": [
+    {
+      "name": "matematik-sayfa",
+      "source": "./",
+      "description": "Matematik notlarını ve sorularını formülleri düzgün görünen, koyu temalı bir sayfa olarak açıklar. YAVUX ile açılır, YAVUX KAPA ile kapanır."
+    }
+  ]
+}
